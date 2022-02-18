@@ -2,6 +2,7 @@
 # set +x
 # echo $#
 # echo $*
+echo $@
 
 var=$1
 case "$var" in
