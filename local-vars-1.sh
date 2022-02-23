@@ -17,3 +17,4 @@ do
     loopThrough
 done
 
+# If in the global it is greater than  m at line 6 then you will bump into an infinite loop
